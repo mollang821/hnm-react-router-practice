@@ -1,0 +1,124 @@
+{
+    "products":[
+        {
+            "id":0,
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/bb/af/bbafea3ec468c5b39de808a0f19bf95dfb908f5c.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+            "title":"후드 퀼팅 재킷",
+            "price":69900,
+            "choice":true,
+            "new":true,
+            "size":["S","M"]
+
+        },
+        {
+            "id":1,
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/af/50/af50afa939c28ba24fd263fb573b4ad5f0858b14.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+            "title":"슬림핏 맘 하이웨이스트 앵클 진",
+            "price":29900,
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":2,
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/10/85/10855504c9e423308b1efcfe363bb4479dc9d419.jpg],origin[dam],category[ladies_cardigansjumpers_cardigans],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+            "title":"파인 니트 가디건",
+            "price":19900,
+            "choice":false,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":3,
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/b4/7a/b47a45c42dcabfeffb44f692709222698421b8a5.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+            "title":"텍스처 드레스",
+            "price":49900,
+            "choice":false,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":4,
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/ee/ad/eeadcfd3f7d14d7f9e681f111c8cc21e8519001d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+            "title":"후드 퍼프 베스트",
+            "price":59900,
+            "choice":true,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":5,
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/cd/0a/cd0ae9bd6c2ed012a220b7490219a6afd38a3faf.jpg],origin[dam],category[ladies_cardigansjumpers_jumpers],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+            "title":"니트 스웨터",
+            "price":29900,
+            "choice":false,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":6,
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/0b/5e/0b5ea3a8377aa300e41f0fc4f7f18c44c23e21b9.jpg],origin[dam],category[ladies_basics_tops_shortsleeve],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+            "title":"오버사이즈 티셔츠",
+            "price":14900,
+            "choice":true,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":7,
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/4f/25/4f25123acf4e54b4ec5598fc8c364ab628b0c22b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+            "title":"테디 가디건",
+            "price":49900,
+            "choice":false,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":8,
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/3b/5d/3b5d44319992c85d8a7312b9d94cfbda45fa66ce.jpg],origin[dam],category[ladies_trousers_highwaisted],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+            "title":"와이드 트윌 팬츠",
+            "price":29900,
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":9,
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/3f/58/3f58a37b9d78a2fe648d60c54b822aae5e7c3e10.jpg],origin[dam],category[ladies_cardigansjumpers_jumpers],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+            "title":"니트 스웨터",
+            "price":29900,
+            "choice":false,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":10,
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/1a/62/1a6299eb7cb99502434233f984e18c7a89e837b5.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+            "title":"파인니트 가디건",
+            "price":49900,
+            "choice":true,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":11,
+            "img":"https://lp2.hm.com/hmgoepprod?set=source[/0e/5e/0e5eebb7d64dde00ed08cd65164e21a3fa5afd3e.jpg],origin[dam],category[ladies_jacketscoats_coats],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+            "title":"더블 브레스티드 코트",
+            "price":79900,
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        }
+    ]
+}
